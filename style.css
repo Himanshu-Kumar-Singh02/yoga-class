@@ -1,0 +1,39 @@
+.headpho{
+  border-radius: 100%;
+  height: 400px;
+  width:400px;
+}
+.nav{
+  color:black;
+}
+#detail{
+  text-align:center;
+  color:white;
+  background-color: #99b898;
+margin-top: 7%;
+}
+#doc{
+  text-align:center;
+}
+.dot {margin-left: 10%;
+  height: 165px;
+  width: 165px;
+  color:white;
+  background-color: #99b898;
+  border-radius: 50%;
+  display: inline-block;
+}
+.input-group{
+  padding:0 300px;
+}
+.do {margin-left: 10%;
+  height: 165px;
+  width: 165px;
+  color:white;
+
+  border-radius: 50%;
+  display: inline-block;
+}
+hr{
+  background-color: white;
+}
